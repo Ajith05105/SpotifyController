@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Ajith05105/SpotifyController#readme",
   "description": "",
   "dependencies": {
+    "dotenv": "^16.5.0",
+    "open": "^10.1.1",
     "spotify-web-api-node": "^5.0.2"
   }
 }

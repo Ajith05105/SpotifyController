@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Token files (if you save refresh/access tokens locally)
+token.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
+
+# Compiled scripts or executables
+*.exe
+*.ahk
+
+# Backup files
+*.bak
+*.tmp
